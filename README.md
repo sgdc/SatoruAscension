@@ -1,0 +1,1 @@
+Adam Gincel and Kevin Quigley's joint submission to SGDC's Summer Game Jam II.
